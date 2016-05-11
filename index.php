@@ -10,7 +10,7 @@
     <body>
         <button onclick="sayHello('world')" >clique aqui</button>
         <?php
-            echo 'bens vindos DWE'; 
+            echo 'bens vindos DWE'."<br/>"; 
         ?>
     </body>
 </html>
